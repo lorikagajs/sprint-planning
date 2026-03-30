@@ -163,7 +163,8 @@ a{
 }
 
 .header .logo img{
-    height: 9rem;
+    height: 7rem;
+    margin-top: 0.8rem;
 }
 
 .header .navbar a{
