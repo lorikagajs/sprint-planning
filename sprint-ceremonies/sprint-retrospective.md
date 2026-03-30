@@ -8,17 +8,16 @@
 
 <!-- List things that went well during this sprint -->
 
-- e.g. *Communication within the team was clear and consistent*
--
--
+-  *Communication within the team was clear and consistent*
+- *Difficulty ratings for the tasks were accurate, which allowed us to perform more efficiently*
 
 ## What Needs Improvement
 
 <!-- List things that could be improved -->
 
-- e.g. *PR reviews took too long, blocking other team members*
--
--
+- *PR reviews took too long, blocking other team members*
+- *The team needs to respect the schedule*
+- *The tasks should be more clearly defined*
 
 ## Action Items
 
@@ -26,17 +25,16 @@
 
 | Action Item | Owner | Due Date |
 |-------------|-------|----------|
-| e.g. *Set a 24h max turnaround for PR reviews* | *Scrum Master* | *Next sprint* |
-|             |       |          |
-|             |       |          |
+| *Set a 24h max turnaround for PR reviews* | *Scrum Master* | *Next sprint* |
+| *More time for the sprint*            | *Scrum Master*      | *Next sprint*         |
+|  *Start having daily standups*           | *Scrum Master*      | *Next Sprint*         |
 
 ## Retrospective Summary Table
 
 | Worked Well | Needs Improvement | Next Steps |
 |-------------|-------------------|------------|
-| e.g. *Tasks were well defined* | e.g. *Reduce meeting time* | e.g. *Scrum Master: time-box meetings to 15 min* |
-|             |                   |            |
-|             |                   |            |
+| *Communication within the team was clear and consistent* | *The tasks should be more clearly defined* | *Product Owner: better define the user stories* |
+
 
 ## Team Mood
 
@@ -44,6 +42,7 @@
 
 | Team Member | Rating | Comment |
 |-------------|--------|---------|
-| e.g. *John* | *4* | *Good sprint, but felt rushed at the end* |
-|             |        |         |
-|             |        |         |
+| *Djellza* | *5* | *Everything worked well for me :)* |
+|  *Erisa*   |  *5*  | *Happy with the results*        |
+|  *Lorik*  |   *5*     |  *Great sprint. It took some time to get aligned, but afterward we completed all tasks efficiently.*       |
+|  *Mehmed*  |   *5*     |  *We should've eaten earlier.*    |
